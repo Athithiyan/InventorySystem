@@ -1,2 +1,4 @@
 # InventorySystem
-Microservices training
+Microservices training:
+
+Creating an online book inventory system.
